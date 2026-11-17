@@ -58,3 +58,5 @@ config compiled at deploy, three gates green before any change is done
 (`npm run typecheck`, `npm test`, `npm run build` — a deploy dry-run),
 vitest specs driving the real app with no test doubles of kernel
 interfaces.
+
+This is a test!
